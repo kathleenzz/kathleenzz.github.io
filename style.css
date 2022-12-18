@@ -10,6 +10,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Plus Jakarta Sans', sans-serif;
+    /* background-color:#9BC1F2 ; */
     background-color: #6C7A8C;
     color: #fff;
 
@@ -23,7 +24,9 @@ h2,.white{
 }
 
 a{
-    color: #fff;
+    color: #F2CDC4;
+    /* color: #5FD98A; */
+    font-size: 1rem;
     text-decoration: none;
 }
 /* section 1 */
@@ -125,7 +128,7 @@ a{
  
 .experience h3 {
   font-size: 20px;
-  color: #fff;
+  color: #2E0259;
   opacity: 75%;
   margin: 5px 25px;
   
@@ -153,12 +156,18 @@ a{
   font-weight: bold;
 }
 
+.title {
+    /* color: #2E0259; */
+    
+}
+
 
 /* project */
 
-img { 
-    width: 40vw;
-  }
-  /* colors
-  green #01401C ; green #062400 ; bright blue #0339A6 ; 
-   */
+/* .project a {
+  font-size:1.5rem;
+}
+
+.project li {
+  margin-left: 35px;
+} */
