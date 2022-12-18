@@ -114,14 +114,17 @@ a{
         background-size: cover;
     }
     .section-2{
-        padding: 0;
-        padding-left: 1.5rem;
+
+        padding: 0 ;
+        padding-left: 3rem;
         padding-top: 2rem;
+        width: 80%;
+        
+        
+        
     }
 
-    .section-2 img {
-        width: 30vw;
-    }
+    
 }
 
 /* experince timeline */
