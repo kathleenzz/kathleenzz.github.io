@@ -37,13 +37,10 @@ a{
 .section-1{
     padding-top: 40vh;
     text-align: center;
-    background-image: url("assets/img/sfmomaspeech.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: 75% 25%;
-    /* background-position: 80% -10%; */
-    
+    background-image: url("assets/img/profPJAndKathleenAtPosterSesh.jpg");
+    background-repeat: no-repeat;background-size: cover;
+    background-position: 75% -20vh;
+     
 }
 
 .section-1 p{
@@ -113,7 +110,7 @@ a{
         padding:0;
         padding: 5rem 0 25px;
 
-        background-image: url("assets/img/sfmomaspeech2.jpg");
+        background-image: url("assets/img/sfmomaspeech.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
